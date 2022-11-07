@@ -1,1 +1,1 @@
-# scaling-potato
+# jenkins-docker-example
